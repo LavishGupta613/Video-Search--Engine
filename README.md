@@ -29,6 +29,6 @@ To run the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <(https://github.com/LavishGupta613/Video-Search--Engine.git)>
+   git clone (https://github.com/LavishGupta613/Video-Search--Engine.git)
 
  
